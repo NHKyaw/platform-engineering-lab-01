@@ -1,6 +1,6 @@
 # platform-engineering-lab-01
 
-##Create the Application User
+## Create the Application User
 - Create a dedicated application user to run the application. This will improve security by running application as non-root user.
 ```bash
 sudo adduser app

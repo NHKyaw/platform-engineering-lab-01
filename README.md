@@ -15,14 +15,14 @@ git clone https://github.com/khantnaingset-kns/ape-aws-ec2-assessment-1.git
 Move the project to /usr/local/bin according to best practice.
 ```bash
 mv ape-aws-ec2-assessment-1 /usr/local/bin/
-```bash
+```
 
 ##Install OS Dependencies
 Install required package before running application.
 ```bash
 sudo apt update
 sudo apt install -y python3 python3-venv python3-pip git nginx
-```bash
+```
 
 ##Create Application Log Directory
 Create Application Log Directory and log file and Make Sure app user have the enough permission.
